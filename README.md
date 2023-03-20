@@ -43,6 +43,7 @@ It gives the count of mistyped words
 The average speed × accuracy obtained gives the net result. This factor makes sure that one’s accuracy depends on one’s typing speed 
 Net result=Speed × Accuracy.
 
+
 RESULTS:
 
 Taking a typing speed test establishes your average typing speed (WPM) and accuracy, which is an important baseline to know so you can increase speed and improve accuracy with practice. Periodically taking typing speed tests can help you track your progress and measure improvement. You even can use your WPM score from the typing test on your resume to highlight your administrative skills.
