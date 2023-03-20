@@ -44,8 +44,4 @@ The average speed × accuracy obtained gives the net result. This factor makes s
 Net result=Speed × Accuracy.
 
 
-RESULTS:
-
-Taking a typing speed test establishes your average typing speed (WPM) and accuracy, which is an important baseline to know so you can increase speed and improve accuracy with practice. Periodically taking typing speed tests can help you track your progress and measure improvement. You even can use your WPM score from the typing test on your resume to highlight your administrative skills.
-
 ![image](https://user-images.githubusercontent.com/118679164/226266700-d9c3b844-a05e-41ed-9bb9-63fbae6d200e.png)
